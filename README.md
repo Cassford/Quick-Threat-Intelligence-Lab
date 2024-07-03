@@ -2,7 +2,7 @@
 
 ## Objective
 
-The threat intelligience lab aimed at testing foundational knowledge of the use of  the various tools and resources on Mitre ATT&CK for threat intelligence, and consquently informed decision making.
+The threat intelligience lab aimed at testing foundational knowledge of the use of  the various tools and resources provided within Mitre ATT&CK, for threat intelligence, and consquently informed decision making.
 
 ### Skills Learned
 
