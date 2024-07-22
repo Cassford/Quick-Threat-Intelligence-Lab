@@ -7,7 +7,7 @@ The threat intelligience lab aimed at testing foundational knowledge of the use 
 ### Skills Learned
 
 - Ability to define  threat landscape using threat intelligence tools.
-- Enhanced knowledge of Tactics, Techniques and Procedures (TTPs) used by advesarial groups.
+- Enhanced knowledge of Tactics, Techniques and Procedures (TTPs) used by adversarial groups.
 - Development of critical thinking skills in cybersecurity.
 
 ### Tools Used
